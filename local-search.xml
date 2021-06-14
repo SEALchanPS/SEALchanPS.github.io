@@ -4,11 +4,42 @@
   
   
   <entry>
+    <title>关于给一元二次方程求根公式求极限后求出一元一次方程求根公式这档子事</title>
+    <link href="/2021/06/14/limit-of-quadratic-equation/"/>
+    <url>/2021/06/14/limit-of-quadratic-equation/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>理科研究所</category>
+      
+      <category>数学</category>
+      
+      <category>初三</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>数学</tag>
+      
+      <tag>启迪</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2021/05/15/hello-world/"/>
     <url>/2021/05/15/hello-world/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2><h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
     
@@ -24,7 +55,7 @@
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<p>您好! 这里是 sc!</p><p>平常没事整点不专业病毒代码啥的</p><p>欢迎扩列!! 2119208499</p>]]></content>
+    <content type="html"><![CDATA[<h3 id="hihi-this-is-thegodsc-w"><a class="markdownIt-Anchor" href="#hihi-this-is-thegodsc-w"></a> HIHI THIS IS THEGODSC!!! 👋 w</h3><!-- 这个 算不算 变相扩列啊（--><h4 id="sealchan-主要作品"><a class="markdownIt-Anchor" href="#sealchan-主要作品"></a> SEALchan 主要作品</h4><ol><li><p>ParaChat 👯‍♂️（算是 Paranoia Seal 第一个没有弃坑完成的作品了，虽然源文件找不到而且 ParaChat 服务器已经无了（不知道有没有人知道 ParaChat Alpha 版部署在 SEALchan 家里的树莓派上 <s>我知道你不知道我知道</s></p></li><li><p><a href="https://sealchanps.github.io">SEALchan’s Blog!</a> 🌍 新 博 客（可以说是一个比较成功的网站了，虽然内容很少很草（（</p></li><li><p><a href="https://SEALchanPS.github.io/YingyingChan">嘤嘤饭站</a> 👧（<s>别问为啥域名这么长，没钱买短域名的我大悲（</s> 日常迫害组员嘤嘤饭 <s>大家快去我 Seal Software Bank 下评论吧，DiCK 是真的（</s></p></li><li><p><s><a href="https://apps.paranoiaseal.website">Seal Software Bank 印章软件园</a> 🌈<strong>重点大事</strong> 我搭建这个东西我网站崩了三次（悲 （软件园这个设想早就有了，我们不希望有广告希望纯粹的下载体验，原计划使用 Github Pages 后来还是改成了 WordPress（（</s> （<s>评论一次给嘤嘤饭 DiCK 补上一部分</s> 服务器无了（悲</p></li><li><p><strong>压轴大戏</strong> <font color="red" size=5>震撼全场</font>：企业文化 <strong>印章机器人</strong> SEALbot，前后部署于 企业微信 <s><font size=1>第三范式傻逼</font></s>，QQ <s><font size=2>腾讯傻逼</font></s>，Telegram。虽然用的框架不一样（CoolQ 都没了（恼），但是的确是 <strong>企业文化</strong> [注: 2021.2.15 更新, SEALbot 已经全部弃坑]</p><p><em>别看了，就这 5 个，无了（</em></p><p>[注: 2021.2.15 更新, SEALvirus 马上完工]</p></li></ol><ul><li><p><em><strong>SEALchan 所在的组织怎么样？好玩吗（</strong></em></p><p>Paranoia Seal 成立于 2018.11.17，当然很好玩<s>但是人很少</s>，欢迎各位加入（加入方式见 “怎么联系 SEALchan”</p></li><li><p><em><strong>SEALchan 的 好 友 介绍一下罢（迫真好友</strong></em></p><p>[2021.5.23 更新] 我有 8 个特别关心!!懒得介绍了）</p></li><li><p><em><strong>编程语言什么的，有在学吗？（</strong></em></p><p><s>有的（老实</s> 是，但是 <font color="red">懒</font> <font color="green">得</font> <font color="blue">动</font></p><p>（别问我为什么放这种   <s>上世纪九十年代经典网络配色</s>   <strong>古典</strong> 配色，因为 <s>经 典 文 化 代 代 相 传</s></p><p><s>（不喜欢？那宁去用 360 罢（</s></p></li><li><p><em><strong>SEALchan 在哪方面需要帮助什么的（</strong></em></p><p>需要一帮我写代码的 <strong>智  能  机  器  人</strong><s>（我不要脑<strong>子</strong>啊</s></p></li><li><p><em><strong>SEALchan 喜欢什么啊？（试探</strong></em></p><p><s><font size=2>雷普嘤嘤饭，击剑</font></s> 写代码，搭网站什么的（</p></li><li><p><em><strong>怎么联系 SEALchan</strong></em> <s>（指半夜敲门雷普 SEALchan（击剑（bushi</s></p><p><em>邮箱</em></p><p><a href="mailto:ParanoiaSeal@outlook.com">ParanoiaSeal@outlook.com</a></p><p><a href="mailto:ParanoiaSeal@gmail.com">ParanoiaSeal@gmail.com</a></p><p><a href="https://jq.qq.com/?_wv=1027&amp;k=spC03s4d">QQ 粉丝群 1072523788</a>（点击加群</p></li></ul><p><font size=6> 感谢各位对 Paranoia Seal 和 Doki Doki Ruohann Club（唐突） 的支持！</font></p><p>然后就是板板 YYDS</p><!-- 熟悉吗？Github 拷贝的（ >]]></content>
     
   </entry>
   
